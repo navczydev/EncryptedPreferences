@@ -1,0 +1,2 @@
+rootProject.name='EncryptedPreferences'
+include ':app'
